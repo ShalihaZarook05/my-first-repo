@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Shaliha Sarook</h1>
+<h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
+
 # 💫 About Me
 
 👯 **I’m looking to collaborate on**  
