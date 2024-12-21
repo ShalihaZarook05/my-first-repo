@@ -28,5 +28,17 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShalihaZarook05&icon=0&color=0)](https://visitcount.itsvg.in)
+# 💻 Languages & Tools
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **JavaScript** (React.js, Node.js, Express.js)
+- **HTML & CSS**
+- **MongoDB** (NoSQL databases)
+- **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- **Java** (Core language for software engineering)
+- **Git & GitHub** (Version control and collaboration)
+- **VS Code** (IDE for development)
+- **Docker** (Containerization for deploying applications)
+- **MySQL** (Relational databases)
+- **Postman** (API testing)
+
+
