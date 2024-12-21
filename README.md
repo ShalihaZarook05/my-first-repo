@@ -1,5 +1,19 @@
-# 💫 About Me:
-🔭 I’m currently working on FixPoint<br>🤝 🌱 I’m currently learning<br>MERN Stack (MongoDB, Express.js, React.js, Node.js)💬 Fun fact i think I'm funny
+# 💫 About Me
+
+👯 **I’m looking to collaborate on**  
+- **Project Name**: [FixPoint](#)  
+  - Working on the FixPoint project with a team, focusing on a service-oriented solution to streamline processes.
+
+🤝 **I’m looking for help with**  
+- **Project Name**: [MyProject](#)  
+  - Need help with the development of CRUD operations for my dog food-selling app.
+
+🌱 **I’m currently learning**  
+- MERN Stack (MongoDB, Express.js, React.js, Node.js)
+
+⚡ **Fun fact**  
+- I think I am funny!
+
 
 
 ## 🌐 Socials:
